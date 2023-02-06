@@ -1,0 +1,13 @@
+# A Git Ignore File for The Cluster Dynamics Project
+
+figures/
+**/Data/
+simulations/NSLE_Mage/
+# simulations/*/
+*.zip
+*.png
+!MSThesisFigures/NPDPSchema.png
+!MSThesisFigures/TCPSchema.png
+!MSThesisFigures/DensityTable.png
+*.gif
+*.csv
